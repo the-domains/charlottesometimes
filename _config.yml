@@ -1,0 +1,28 @@
+name: CharlotteSometimes
+favicon: null
+layout_spectrum: 0.6257968770805746
+typography_spectrum: 0.32246769359335303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19790637213736773
+  lightness: 0.06769634084776044
+  saturation: 0.4688745259772986
+  rhythmicContrast: 0.7820571046322584
+purpose: []
