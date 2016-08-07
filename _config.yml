@@ -1,5 +1,7 @@
-favicon: null
-name: CharlotteSometimes
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,13 +30,11 @@ color:
     - '#6C6358'
     - '#2F2B23'
   rhythmicContrast: 0.7820571046322584
-typography_spectrum: 0.322467693593353
-layout_spectrum: 0.9964158
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.06272402
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.9964158
+favicon: null
+name: CharlotteSometimes
